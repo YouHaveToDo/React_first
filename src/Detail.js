@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { useParams, useHistory } from "react-router-dom";
-
+// 시작부분
 const Detail = (props) => {
   const history = useHistory();
   const Day = useParams();
